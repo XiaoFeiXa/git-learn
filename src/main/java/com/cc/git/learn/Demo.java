@@ -8,4 +8,8 @@ public class Demo {
         System.out.println("更改1......");
         System.out.println("更2......");
     }
+
+    public void test(){
+        System.out.println("log...");
+    }
 }
